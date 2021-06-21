@@ -2,7 +2,7 @@
 
 
 
-[My Github Profile](https://github.com/AreejElayyan)
+[My Github Profile](https://github.com/ElayyanAreej)
 
 ## table of contents:
 ### Code 102 Reading Notes
