@@ -22,8 +22,6 @@
 ### Code 201 Reading Notes
 | page               | Link                   |
 | -----------        | -----------            |
-<<<<<<< HEAD
 | Read:01            | [Page Link](class01.md)|  
-=======
-| Read: 01           | [Page Link]()          |  
->>>>>>> 15b9a43c8de7be838ace00d515c2bd69811d4703
+| Read:02            | [Page Link](class02.md)|  
+| Read:03            | [Page Link](class03.md)|  
