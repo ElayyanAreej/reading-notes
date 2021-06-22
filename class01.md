@@ -1,3 +1,4 @@
+# Read: 01 - Introductory HTML and JavaScrip
 ## How People Access the Web
 * **Browsers**
 People access websites using

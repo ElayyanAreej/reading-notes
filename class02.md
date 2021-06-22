@@ -1,5 +1,6 @@
-# Text 
-## Headings
+# Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
+## HTML Text 
+### Headings
 HTML has six "levels" of headings:
 ```
 <h1>This is a Main Heading</h1>

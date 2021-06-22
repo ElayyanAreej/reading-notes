@@ -1,3 +1,4 @@
+# Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
 ## HTML Lists 
 HTML provides us with three different types:
 * **Ordered lists** are lists where each item in the list is numbered. 
@@ -119,7 +120,7 @@ This shows the element.
 An array is a special type of variable. It doesn't just store one value; it stores a list of values.
 
 👉
-*Note* 
+*Notes* 
 
 -You do not need to specify how many values it will hold. 
 
