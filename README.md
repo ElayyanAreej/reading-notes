@@ -20,8 +20,10 @@
 
 
 ### Code 201 Reading Notes
+
 | page               | Link                   |
 | -----------        | -----------            |
 | Read:01            | [Page Link](class01.md)|  
 | Read:02            | [Page Link](class02.md)|  
 | Read:03            | [Page Link](class03.md)|  
+| Read:04            | [Page Link](class04.md)|  
