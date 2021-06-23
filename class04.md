@@ -152,8 +152,12 @@ within that function. This is known as the variable's scope.
 * **LOCAL VARIABLES**
 * **GLOBAL VARIABLES** 
 -----
-## 6 Reasons for Pair Programming
+## Pair Programming
+![pp](https://www.mitrais.com/wp-content/uploads/2020/11/img-pair-programming.jpg)
 pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together. 
+
+### 6 Reasons for Pair Programming
+
 1. Greater efficiency
 2. Engaged collaboration
 3. Learning from fellow students
