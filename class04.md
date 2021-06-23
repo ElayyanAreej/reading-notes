@@ -135,7 +135,7 @@ Function need information:
 let x= FunctionName(argumates , , );
 ```
 
------
+
 * Get Multiple Values Out Of A Function:
 Function returnes an array
 ```
@@ -151,3 +151,27 @@ within your code. If you declare it within a function, it can only be used
 within that function. This is known as the variable's scope.
 * **LOCAL VARIABLES**
 * **GLOBAL VARIABLES** 
+-----
+## 6 Reasons for Pair Programming
+pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together. 
+1. Greater efficiency
+2. Engaged collaboration
+3. Learning from fellow students
+4. Social skills
+5. Job interview readiness
+6. Work environment readiness
+
+### How ?
+ Involves two roles: 
+ 1. **The Driver** : is the programmer who is typing and the only one whose hands are on the keyboard.
+ 2. **The Navigator** : uses their words to guide the Driver but does not provide any direct input to the computer. 
+
+### Why ?
+
+ There are four fundamental skills that help anyone learn a new language:
+ * Listening: hearing and interpreting the vocabulary.
+ * Speaking: using the correct words to communicate an idea.
+ * Reading: understanding what written language intends to convey.
+ * Writing: producing from scratch a meaningful
+
+ So *Pair programming* touches on all four skills: developers explain out loud what the code should do, listen to others’ guidance, read code that others have written, and write code themselves.
