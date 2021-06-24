@@ -5,7 +5,7 @@ By John Sonmez
 ## Why ? 
 ![icon](https://cdn2.iconfinder.com/data/icons/coding-9/256/coding_piece_puzzle_html_design-512.png)
 
-Tried to put together a jigsaw puzzle that didn’t have any picture on it !!! The reason why puzzles like this one are so hard, is because you **can’t** really **see what you are trying to build** very clearly.
+Try to put together a jigsaw puzzle that didn’t have any picture on it !!! The reason why puzzles like this one are so hard, is because you **can’t** really **see what you are trying to build** very clearly.
 
 The **same** thing happens when **writing code**.  Writing code is a lot like putting together a jigsaw puzzle.  We put together code with the purpose of building components that we have taken out of the “bigger picture” of the problem domain.
 
