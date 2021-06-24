@@ -27,3 +27,4 @@
 | Read:02            | [Page Link](class02.md)|  
 | Read:03            | [Page Link](class03.md)|  
 | Read:04            | [Page Link](class04.md)|  
+| Read:05            | [Page Link](class05.md)|  

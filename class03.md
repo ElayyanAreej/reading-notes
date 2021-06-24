@@ -126,7 +126,7 @@ An array is a special type of variable. It doesn't just store one value; it stor
 
 -The values are assigned to the array inside a pair of square brackets, and each value is separated by a comma. 
 
--Values in an array are accessed as if they are ina numbered list.starts at zero (not one). whiches called an *index*.
+-Values in an array are accessed as if they are in a numbered list.starts at zero (not one). whiches called an *index*.
 
 -Each array has a property called *length*, which holds the number of items in the array. **arryName.length;** 
 
