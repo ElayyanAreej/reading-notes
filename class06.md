@@ -26,3 +26,43 @@ If understanding the problem domain is the hardest part of programming and you w
 ---
 ## WHAT IS AN OBJECT? 
 Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names. 
+* If a variable is part of an object, it is called a
+**property**. Properties tell us about the object.
+* If a function is part of an object, it is called a **method**. Methods represent tasks that are associated with the object. 
+
+👉
+*Notes* 
+-An object cannot have two keys with the same name.This is because keys are used to access their corresponding values.
+-The value of a property can be a string, number,Boolean, array, or even another object. The value of a
+method is always a function.
+
+### Creating An Object
+
+```
+let objectName ={
+    //properties
+    //method{}
+};
+```
+
+### Accessing An Object
+```
+let variable=objectName.property/method Name();
+```
+
+## Document Object Model
+![DOM](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png)
+THE DOM TREE IS A MODEL OF A WEB PAGE
+
+As a browser loads a web page, it creates a model of that page.
+The model is called a DOM tree, and it is stored in the browsers' memory.
+It consists of four main types of nodes. 
+
+
+Each node is an object with methods and properties.
+Scripts access and update this DOM tree (not the source HTML file).
+Any changes made to the DOM tree are reflected in the browser. 
+
+### Accessing and updating the DOM tree involves two steps:
+1: Locate the node that represents the element you want to work with.
+2: Use its text content, child elements, and attributes. 
