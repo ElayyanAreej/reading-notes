@@ -64,5 +64,6 @@ Scripts access and update this DOM tree (not the source HTML file).
 Any changes made to the DOM tree are reflected in the browser. 
 
 ### Accessing and updating the DOM tree involves two steps:
-1: Locate the node that represents the element you want to work with.
-2: Use its text content, child elements, and attributes. 
+1. Locate the node that represents the element you want to work with.
+
+2. Use its text content, child elements, and attributes. 
