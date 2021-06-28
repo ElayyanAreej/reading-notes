@@ -56,7 +56,7 @@ sit inside the thead element.
 2. ```<tbody>``` The body should sit inside the
 tbody element. 
 3. ```<tfoot>``` The footer belongs inside the
-<tfoot> element.
+ tfoot element.
 
 #### Why Long Tables?!
 These elements help people who use screen readers and also allow you to style these sections
