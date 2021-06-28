@@ -29,3 +29,4 @@
 | Read:04            | [Page Link](class04.md)|  
 | Read:05            | [Page Link](class05.md)|  
 | Read:06            | [Page Link](class06.md)|  
+| Read:07            | [Page Link](class07.md)|  

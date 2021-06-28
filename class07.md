@@ -91,6 +91,7 @@ Object constructors can use a function as a template for creating objects.
 👉
 *Notes* 
 
+
 -Once you have created an object, the syntax for adding or removing any properties and methods from that object is the same. 
 
 -The keyword **this** is commonly used inside functions and objects.
@@ -142,5 +143,7 @@ Is same as
 ```document ```
 
 ### GLOBAL OBJECTS: DATE OBJECT (AND TIME)
+
 Once you have created a **Date object,** the following methods let you set and retrieve the time and date that it represents.
+
 ![GO/Date](https://1.bp.blogspot.com/-Y2DObhTLxr0/W7kDOsuhXNI/AAAAAAAAEtw/gwNKf10REIcm9NhzjkN2VSlyE8ikR8MhgCLcBGAs/s640/DownloadFile%2B%25281%2529.png) 
