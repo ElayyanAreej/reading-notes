@@ -68,9 +68,13 @@ in a different manner than the rest of the table (as you will see when you learn
 
 ### Updating An Object
 * dot notation 
-``` ObjectName . PropertyName = 'value';```
+```
+ ObjectName . PropertyName = 'value';
+ ```
 * square bracets
-``` ObjectName[ 'PropertyName'] = 'value';```
+``` 
+ObjectName[ 'PropertyName'] = 'value';
+```
 
 ### Creating Many Objects
 several objects represent similar things.
@@ -124,11 +128,15 @@ built-in objects act like a toolkit for creating interactive web pages.
  is used to interact with the browser.
 
 The default object of browser is window means you can call all the functions of window by specifying window or directly. For example:
-```window.alert("hello javatpoint"); ```
+``` 
+window.alert("hello javatpoint");
+ ```
 
 is same as:
 
-```alert("hello javatpoint");  ```
+```
+alert("hello javatpoint");
+  ```
 
 * Document Object Model
 ![DOM](https://www.researchgate.net/profile/Henrique-Gaspar/publication/317624714/figure/fig10/AS:668885598605336@1536486162639/HTML-Document-Object-Model-DOM-three-of-objects.png)
@@ -136,11 +144,15 @@ is same as:
 
 When html document is loaded in the browser, it becomes a document object. It is the root element that represents the html document. It has properties and methods. By the help of document object, we can add dynamic content to our web page.
 
-```window.document ```
+``` 
+window.document 
+```
 
 Is same as
 
-```document ```
+```
+document 
+```
 
 ### GLOBAL OBJECTS: DATE OBJECT (AND TIME)
 
