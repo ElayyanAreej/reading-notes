@@ -135,8 +135,12 @@ is same as:
 
 When html document is loaded in the browser, it becomes a document object. It is the root element that represents the html document. It has properties and methods. By the help of document object, we can add dynamic content to our web page.
 
-```window.document ``
+```window.document ```
 
 Is same as
 
-```document `` 
+```document ```
+
+### GLOBAL OBJECTS: DATE OBJECT (AND TIME)
+Once you have created a **Date object,** the following methods let you set and retrieve the time and date that it represents.
+![GO/Date](https://1.bp.blogspot.com/-Y2DObhTLxr0/W7kDOsuhXNI/AAAAAAAAEtw/gwNKf10REIcm9NhzjkN2VSlyE8ikR8MhgCLcBGAs/s640/DownloadFile%2B%25281%2529.png) 
