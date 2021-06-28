@@ -53,7 +53,7 @@ The colspan & rowspan attribute can be used on a ```<th> or <td>``` element and 
 There are three elements that help distinguish between the main content of the table and the first and last rows.
 1. ```<thead>``` The headings of the table should
 sit inside the thead element. 
-2. ```<tbody>`` The body should sit inside the
+2. ```<tbody>``` The body should sit inside the
 tbody element. 
 3. ```<tfoot>``` The footer belongs inside the
 <tfoot> element.
