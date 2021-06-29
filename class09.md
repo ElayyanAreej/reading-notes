@@ -1,5 +1,6 @@
 # Read: 09 - Forms and Events
 ## Forms HTML
+![form](https://miro.medium.com/max/2560/1*EwtDrkuz9KfJYUSFc4Xm4g.png)
 ### Why ?
 Enabling users to search, forms also allow users to perform other functions online.ex(when registering as a member of a website, when shopping online, and when signing up for newsletters or mailing lists.
 
