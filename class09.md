@@ -152,6 +152,7 @@ styles when the user hovers over them.
 * *background-image* adds a background image to the box.
 
 ### Cursor Style
+![cursorCSS](https://s1.o7planning.com/en/12505/images/53116924.gif)
 cursor property allows you to control the type of mouse
 cursor that should be displayed to users.
 The most commonly used values for this property:
