@@ -31,3 +31,4 @@
 | Read:06            | [Page Link](class06.md)|  
 | Read:07            | [Page Link](class07.md)|  
 | Read:08            | [Page Link](class08.md)| 
+| Read:09            | [Page Link](class09.md)| 

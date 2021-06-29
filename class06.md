@@ -39,7 +39,7 @@ method is always a function.
 ### Creating An Object
 
 ```
-let objectName ={
+let objectName = {
     //properties
     //method{}
 };
