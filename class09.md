@@ -165,3 +165,14 @@ The most commonly used values for this property:
 * wait
 * help
 * url("cursor.gif");
+
+## Events
+An event can be something the browser does, or omething a user does.
+
+### HOW EVENTS TRIGGER JAVASCRIPT CODE
+1. Select t he element node(s) you want the
+script to respond to.
+2. Indicate which event on the selected node(s) will
+trigger the response.
+3. State the code you want to run when the event
+occurs.
