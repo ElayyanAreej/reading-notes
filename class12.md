@@ -97,3 +97,14 @@ Sets the current line dash pattern.
 
 * lineDashOffset = value
 Specifies where to start a dash array on a line.
+
+### Drawing text
+![DT](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text/baselines.png)
+The canvas rendering context provides two methods to render text:
+
+* fillText(text, x, y [, maxWidth])
+
+Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.
+* strokeText(text, x, y [, maxWidth])
+
+Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.
