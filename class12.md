@@ -102,6 +102,7 @@ Specifies where to start a dash array on a line.
 
 ### Drawing text
 ![DT](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text/baselines.png)
+
 The canvas rendering context provides two methods to render text:
 
 * fillText(text, x, y [, maxWidth])
