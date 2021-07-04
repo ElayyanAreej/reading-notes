@@ -33,3 +33,5 @@
 | Read:08            | [Page Link](class08.md)| 
 | Read:09            | [Page Link](class09.md)| 
 | Read:10            | [Page Link](class10.md)| 
+| Read:11            | [Page Link](class11.md)| 
+| Read:12            | [Page Link](class12.md)| 
