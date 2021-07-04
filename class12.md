@@ -26,7 +26,7 @@ Charts are far better for displaying data visually than tables, A great way to g
     var buyers = document.getElementById('buyers').getContext('2d');
     new Chart(buyers).Line(buyerData);
 </script>
-```
+ ```
 5. create our data inside the same script tags
 ```
 var buyerData = {
