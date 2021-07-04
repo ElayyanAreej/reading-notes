@@ -76,6 +76,13 @@ finally {
 }
 ```
 
+**THROWING ERRORS**
+If you know something might cause a problem for your script, you can generate your own errors before the interpreter creates them. 
+
+To create your own error, you use the following line:
+```
+throw new Error( 'message ') ;
+```
 
 **Error objects** can help you find where your mistakes are and browsers have tools to help you read them. 
 When there is an error, you can see all of this
