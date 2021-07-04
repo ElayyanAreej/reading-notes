@@ -7,7 +7,8 @@
 Charts are far better for displaying data visually than tables, A great way to get started with charts is with ***Chart.js***, a *JavaScript* plugin that uses HTML5’s canvas element to draw the graph onto the page.
 
 1. Download Chart.js.(installation)
- You can get the latest version of Chart.js from [npm](https://www.npmjs.com/package/chart.js).
+ You can get the latest version of Chart.js from 
+ [npm](https://www.npmjs.com/package/chart.js).
 2. Copy the Chart.min.js into the directory you’ll be working in. 
 3. HTML page
    + import the script:
@@ -17,15 +18,16 @@ Charts are far better for displaying data visually than tables, A great way to g
     ```
   
    + create a canvas element
- ```
+
+``` 
  <canvas id="buyers" width="600" height="400"></canvas>
- ```
+```
  4. write a script that will retrieve the context of the canvas
  ```
  <script>
     var buyers = document.getElementById('buyers').getContext('2d');
     new Chart(buyers).Line(buyerData);
-</script>
+ </script>
  ```
 5. create our data inside the same script tags
 ```
