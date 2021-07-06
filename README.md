@@ -35,3 +35,6 @@
 | Read:10            | [Page Link](class10.md)| 
 | Read:11            | [Page Link](class11.md)| 
 | Read:12            | [Page Link](class12.md)| 
+| Read:13            | [Page Link](class13.md)| 
+| Read:14a           |[Page Link](class14a.md)| 
+| Read:14b           |[Page Link](class14b.md)| 
