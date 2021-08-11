@@ -50,6 +50,7 @@
 | Read:02            | [Page Link](r02.md)    | 
 | Read:03            | [Page Link](r03.md)    | 
 | Read:04            | [Page Link](r04.md)    | 
+| Read:05            | [Page Link](r05.md)    | 
 
 ### Code 401 - Advanced Software Development
 
