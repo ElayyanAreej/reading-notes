@@ -63,5 +63,5 @@
 ## Code 401 - Advanced Software Development
 | page               | Link                   |
 | -----------        | -----------            |
-| Read:01            | [Page Link](   .md)    | 
-| Read:02            | [Page Link](   .md)    | 
+| Read:01            | [Page Link](L01.md)    | 
+| Read:02            | [Page Link](L02.md)    | 
