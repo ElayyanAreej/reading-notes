@@ -5,8 +5,9 @@
 [My Github Profile](https://github.com/ElayyanAreej)
 
 # Reading Notes
+
+## Code 102 - Intro to Software Development
 ## table of contents:
-### Code 102 - Intro to Software Development
 
 | page               | Link                   |
 | -----------        | -----------            |
@@ -20,8 +21,7 @@
 |JS (Read08)         | [Page Link](Read08.md) |
 
 
-### Code 201 - Foundations of Software Development
-
+## Code 201 - Foundations of Software Development
 
 | page               | Link                   |
 | -----------        | -----------            |
@@ -42,7 +42,7 @@
 | Read:14b           |[Page Link](class14b.md)| 
 
 
-### Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development
 
 | page               | Link                   |
 | -----------        | -----------            |
@@ -60,5 +60,8 @@
 | Read:12            | [Page Link](r12.md)    | 
 | Read:13            | [Page Link](r13.md)    | 
 
-### Code 401 - Advanced Software Development
-
+## Code 401 - Advanced Software Development
+| page               | Link                   |
+| -----------        | -----------            |
+| Read:01            | [Page Link](   .md)    | 
+| Read:02            | [Page Link](   .md)    | 
