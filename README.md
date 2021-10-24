@@ -73,4 +73,5 @@
 | Read:08            | [Page Link](L08.md)    | 
 | Read:09            | [Page Link](L09.md)    | 
 | Read:11            | [Page Link](L11.md)    | 
+| Read:12            | [Page Link](L12.md)    | 
 
