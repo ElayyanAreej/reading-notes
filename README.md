@@ -78,3 +78,4 @@
 | Read:15            | [Page Link](L15.md)    | 
 | Read:16            | [Page Link](L16.md)    | 
 | Read:17            | [Page Link](L17.md)    | 
+| Read:18            | [Page Link](L18.md)    | 
