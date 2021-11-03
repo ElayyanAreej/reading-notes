@@ -79,3 +79,4 @@
 | Read:16            | [Page Link](L16.md)    | 
 | Read:17            | [Page Link](L17.md)    | 
 | Read:18            | [Page Link](L18.md)    | 
+| Read:19            | [Page Link](L19.md)    | 
